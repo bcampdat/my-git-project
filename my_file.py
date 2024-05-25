@@ -3,7 +3,8 @@ print('Hi Git')
 print('Hi from another dev')
 
 
-
+def greeting ():
+    print(f'Hi There')
 
 print ('Hi')
 
