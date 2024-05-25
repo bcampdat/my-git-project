@@ -9,3 +9,4 @@
 > Another change
 >
 # pull demo
+fetch / pull
